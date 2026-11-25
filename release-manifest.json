@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-25",
+  "root_directory": "policy-brief-workflow",
+  "files": {
+    "README.md": "5d6134740537422b3fb69ce3b45f79f02489038d6ba2523cc1b5f8dcef41103c",
+    "AGENTS.md": "5afe63d5ff762f35cd21a09442044243e922dcc18a70eaa1baf40b9a6c6837a9",
+    "VERSION": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03",
+    ".gitignore": "ab157cdbbd691e83bb7c8ecb438b7e148ec5b86d7c00bbb659bccfaeb177837f",
+    ".agents/skills/policy-brief/SKILL.md": "e788c8ebdd47edad6c44a332992f635c749b0fcf1b587aca033e828f076ee07c",
+    ".agents/skills/policy-brief/references/sources.md": "598921f8871dfaf363bff320de02121ad498f0d926c506610b91702a17ccc736",
+    ".agents/skills/policy-brief/references/deliverables.md": "a38fa41f0f083f738d219bf364629f8526610a670ed8fb4b0d9edbf02a6c8f06",
+    ".agents/skills/policy-brief/references/layout.md": "9ec2820c75dcdce824b25f546e4b76f9cb7ada7775d9e490acb6bdea07626c25",
+    ".agents/skills/policy-brief/references/runtime.md": "e07eca4db3a1dffb707ba864073c1e7a515bdab87262a0043e6f4d9335c437cd",
+    ".agents/skills/policy-brief/assets/report-template.docx": "210500bb972b5ca9f16a86491c4413e5d40cb2d4c0533ed250a9fecba40fba3c",
+    ".agents/skills/policy-brief/scripts/doctor.py": "a30b4240d7c986e1b139c51917f87acb21b3f5ddf9aa612689790569c38ac478",
+    ".agents/skills/policy-brief/scripts/build_docx.py": "f149d28c16aa4355751214020026a07db7e1b94603d138dc9892161eb8150ee1",
+    ".agents/skills/policy-brief/scripts/export_word.ps1": "f098d743394702d3c99ab268032f8f00f5a341bfde6ba564216a6f358bf81991",
+    ".agents/skills/policy-brief-polish/SKILL.md": "80e00e2c7768fc8526632c7485499bf8fe41e4d0ce850933b32453d64e3aaea9",
+    ".agents/skills/policy-brief-polish/references/style-v001.md": "3ffa2bfbbfa992cd870b906b316abe2ebc58c56449b2911b43538ad15ddf7460",
+    ".codex/agents/policy-research.toml": "6f85f2274a4a444e5201f13aa6ac76e0c1b1e257df5395096ade0fc96d634e2e",
+    ".codex/agents/policy-writer.toml": "dc464ec90c1cf7653347b6ef74e7eca6c25a9a8452491dc966359d82019c9bd6",
+    ".codex/agents/policy-reviewer.toml": "b21435c5f43f028a9149f3f2b55765dfa6f5ceb2968ee5e720d1e6e577badad2"
+  }
+}

@@ -1,0 +1,15 @@
+# Generated task deliverables and scratch work are not release resources.
+/outputs/
+/work/
+/materials/
+/private/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+.env
+.env.*
+# Do not commit personal Codex state. Keep the three project role definitions.
+/.codex/*
+!/.codex/agents/
